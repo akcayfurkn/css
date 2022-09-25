@@ -1,0 +1,41 @@
+.bg-gray{
+    background-color: #EEEEEE;
+}
+
+.kutu1{
+    background-color: #7ee5da;
+    width: 430px;
+    height: 90px;
+    margin: 2px 0 0 1px;
+}
+.search-box{
+    margin: 0 150px;
+
+    
+}
+.kutu2{
+    
+    /* float: left; */
+    width: 280px;
+    height: 90px;
+    background-color: #70ccc2;
+   margin: 2px 0 0 1px;
+}
+
+.kutu3{
+    background-color: #62bcaa;
+    width: 510px;
+    height: 90px;
+    margin: 2px 0 0 1px;
+    /* float: left; */
+}
+li{
+    list-style-type: none;
+}
+
+
+.container{
+    display: flex;
+    margin: 0px 150px;
+}
+
